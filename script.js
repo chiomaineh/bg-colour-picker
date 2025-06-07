@@ -36,6 +36,7 @@ const orange= document.getElementById("orange-btn").addEventListener('click', (e
 
 const reset = document.getElementById('default').addEventListener('click', (event) => {
     body.style.backgroundColor = 'white'
+    body.style.color = 'black';
 })
 
 
